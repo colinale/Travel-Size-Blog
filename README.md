@@ -5,7 +5,8 @@ This project for created for those who love to travel and are looking for more o
 
 Github Repository: https://github.com/colinale/Travel-Size-Blog
 Heroku website: https://dry-refuge-26643.herokuapp.com/login
-Professional Portfolio website: 
+Professional Portfolio website: https://colinale.github.io/Professional-portfolio/
+
 
 Group members: 
 Colin Alexander
